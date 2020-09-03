@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/duc_tv/Desktop/P4T/test_ci_cd_docker/target/scala-2.13/test_ci_cd_docker_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/duc_tv/Desktop/P4T/test_ci_cd_docker/target/scala-2.13/classes/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/duc_tv/Desktop/P4T/test_ci_cd_docker/target/scala-2.13/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
